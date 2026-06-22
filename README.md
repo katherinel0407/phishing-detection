@@ -1,19 +1,187 @@
-(JUST NOTES FOR NOW)
+# AI-Generated Phishing Detection: Evaluating the Impact of Large Language Models on Traditional Email Security
 
-In the early stages of training/testing, we see a large class imbalance. (1000 examples of human legit, human phishing, llm legit, but only 37 examples of llm phishing). Thus, to remove this imbalance, I generated 750 phishing emails across all kinds of categories (package delivery, banking, HR, credential theft, security alert, etc.), generated across multiple AI agents (Chat, Copilot, and Claude). 
+## Overview
 
-Random split: we see that model performs equally well on human-generated and LLM-generated emails
+Phishing remains one of the most common cyberattacks used to steal credentials, distribute malware, and gain unauthorized access to sensitive information. In the past, phishing emails were often characterized by poor grammar, suspicious links, and obvious social engineering tactics. However, the emergence of Large Language Models (LLMs) has significantly changed the threat landscape, enabling attackers to generate highly polished and convincing phishing content at scale.
 
-Experiment on whether training solely on human-generated phishing emails allows for a high accuracy in detecting AI-generated phishing emails. (solely human train set, or do we need a certain number of AI emails in there too)? Compare this with a random split.
-- As we increased LLM-generated files to test on, AUROC increased from 0.40 -> 0.61. Let's try adding more texts to see if accuracy increased
+This project investigates whether traditional phishing detection models can effectively generalize to AI-generated phishing emails and explores how incorporating AI-generated phishing examples into training datasets affects detection performance.
 
-Errors: actually see a higher percentage of inaccuracy in human-generated emails (2/2 predictions marked a human-generated phishing email as legit)
-- Two emails promoting drug/medicine (both mentioning "low prices")
+---
 
-Let's also try a SVM model rather than logisitic regression
-- highly increased accuracy!
+## Research Questions
 
-Next steps:
-- Increase LLM- phishing dataset to 1500 to observe if AUROC scores increase (so far we have 37 vs. 750)
-- Test on specific AI agents (i.e. which has a higher "scam rate"? Which does human-trained model test best/worst on?)
-- Human phishing vs. AI phishing (Can we identify whether a phishing email was AI-generated?)
+1. Can we build a model that effectively predicts whether an email (human- or llm-generated) is legit or phishing?
+2. Can a phishing detection model trained on traditional (human-generated) phishing emails effectively detect AI-generated phishing emails?
+3. How much AI-generated phishing data is required before model performance improves?
+4. Are there linguistic differences between human-generated and AI-generated phishing emails?
+5. Can we identify which AI models produce phishing emails that are more difficult to detect?
+
+---
+
+## Dataset
+
+The original dataset from [Kaggle](https://www.kaggle.com/datasets/francescogreco97/human-llm-generated-phishing-legitimate-emails?resource=download). It contains:
+
+| Source           | Legitimate | Phishing |
+|------------------|------------|----------|
+| Human-generated  | 1000       | 1000     |
+| LLM-generated    | 1000       | 1000     |
+
+The LLM-generated emails were produced using ChatGPT and WormGPT. Instead of using this dataset, I generated 750 phishing emails using multiple AI agents:
+
+- ChatGPT
+- Microsoft Copilot
+- Claude
+
+Generated phishing scenarios included:
+
+- Credential Theft
+- Banking Fraud
+- Security Alerts
+- Package Delivery Notifications
+- Human Resources Communications
+- Invoice Fraud
+- Account Verification Requests
+- Password Reset Requests
+
+These emails ranged in quality, from obvious grammatical and spelling mistakes to highly professional and legitimate-sounding emails. 
+
+---
+
+## Data Preprocessing
+
+All emails were standardized into a common format:
+
+- clean_text
+- label
+- source
+- label_id
+
+Preprocessing included:
+
+- Lowercasing
+- URL replacement
+- Email address replacement
+- Number normalization
+- Removal of special characters
+- Whitespace normalization
+
+---
+
+## Baseline Model
+
+### Model
+
+1. TF-IDF Vectorization
+2. Linear Support Vector Classification (had started with a Logistic Regression Classifier, but SVC returned higher AUROC scores)
+
+### Random Train/test Split
+
+A standard stratified train/test split was performed across the entire dataset.
+
+Results
+
+On human data:
+
+- Accuracy: ~99.7%
+- Precision: ~99%
+- Recall: ~100%
+- F1 Score: ~99%
+
+On LLM data:
+
+- Accuracy: ~99.7%
+- Precision: ~100%
+- Recall: ~100%
+- F1 Score: ~100%
+
+---
+
+## Error Analysis
+
+Only two emails were incorrectly classified.
+
+### False Negatives
+
+Both misclassified emails:
+
+- Were human-generated phishing emails
+- Were incorrectly labeled as legitimate
+- Contained language focused on low-priced pharmaceutical or medication purchases
+
+Interestingly, no AI-generated phishing emails appeared among the model's misclassifications during the random split evaluation.
+
+---
+
+## Human-to-LLM Experiment
+
+### Research Question
+
+Traditional phishing detection systems are largely trained on historical phishing datasets created before widespread adoption of LLMs. This experiment evaluates whether a detector trained exclusively on human-generated emails can generalize to AI-generated phishing emails.
+
+### Experimental Design
+
+Training Data:
+
+- Human Legitimate Emails
+- Human Phishing Emails
+
+Testing Data:
+
+- LLM Legitimate Emails
+- LLM Phishing Emails
+
+### Results
+
+| Experiment                         | AUROC |
+|------------------------------------|-------|
+| Human-> LLM (original dataset)     | 0.40  |
+| Human --> LLM (all_AI combined)    | 0.61  |
+
+### Key Findings
+
+A phishing detector trained solely on traditional phishing data struggles to generalize to AI-generated phishing attacks. However, introducing additional AI-generated phishing examples substantially improved performance, increasing AUROC from 0.40 to 0.61. This suggests that modern phishing detection systems may require continual retraining using AI-generated attack samples as the threat landscape evolves.
+
+---
+
+## Next Steps
+
+1. Expand AI-Generated Phishing Dataset
+
+Increase the AI-generated phishing corpus from: 37 → 750 → 1500+ to determine whether Human → LLM performance continues improving.
+
+2. AI Agent-Specific Evaluation
+
+Compare phishing emails generated by:
+
+- ChatGPT
+- Claude
+- Copilot
+
+Research questions:
+
+- Which AI model generates the most difficult phishing emails to detect?
+
+3. Human vs. AI Phishing: can we reliably determine whether a phishing email was generated by a human or by an AI system?
+
+---
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- TF-IDF
+- Logistic Regression
+- Support Vector Machines (SVM)
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## Author
+
+Katherine Li
+
+
