@@ -1,4 +1,19 @@
+(JUST NOTES FOR NOW)
 
 In the early stages of training/testing, we see a large class imbalance. (1000 examples of human legit, human phishing, llm legit, but only 37 examples of llm phishing). Thus, to remove this imbalance, I generated 750 phishing emails across all kinds of categories (package delivery, banking, HR, credential theft, security alert, etc.), generated across multiple AI agents (Chat, Copilot, and Claude). 
 
+Random split: we see that model performs equally well on human-generated and LLM-generated emails
+
 Experiment on whether training solely on human-generated phishing emails allows for a high accuracy in detecting AI-generated phishing emails. (solely human train set, or do we need a certain number of AI emails in there too)? Compare this with a random split.
+- As we increased LLM-generated files to test on, AUROC increased from 0.40 -> 0.61. Let's try adding more texts to see if accuracy increased
+
+Errors: actually see a higher percentage of inaccuracy in human-generated emails (2/2 predictions marked a human-generated phishing email as legit)
+- Two emails promoting drug/medicine (both mentioning "low prices")
+
+Let's also try a SVM model rather than logisitic regression
+- highly increased accuracy!
+
+Next steps:
+- Increase LLM- phishing dataset to 1500 to observe if AUROC scores increase (so far we have 37 vs. 750)
+- Test on specific AI agents (i.e. which has a higher "scam rate"? Which does human-trained model test best/worst on?)
+- Human phishing vs. AI phishing (Can we identify whether a phishing email was AI-generated?)

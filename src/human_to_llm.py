@@ -1,7 +1,7 @@
 import pandas as pd
 
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+from sklearn.svm import LinearSVC
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score
 
@@ -40,14 +40,8 @@ X_test_vec = vectorizer.transform(
     X_test
 )
 
-
-model = LogisticRegression(
-    max_iter=1000
-)
-model.fit(
-    X_train_vec,
-    y_train
-)
+model = LinearSVC()
+model.fit(X_train_vec, y_train)
 y_pred = model.predict(
     X_test_vec
 )

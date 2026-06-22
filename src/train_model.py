@@ -3,7 +3,7 @@ import numpy as np
 
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+from sklearn.svm import LinearSVC
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix, classification_report
 
 import seaborn as sns
@@ -40,18 +40,17 @@ X_train_vec = vectorizer.fit_transform(X_train)
 X_test_vec = vectorizer.transform(X_test)
 
 # train
-model = LogisticRegression(max_iter=1000)
+model = LinearSVC()
 model.fit(X_train_vec, y_train)
 
 y_pred = model.predict(X_test_vec)
 
 results = pd.DataFrame({
+    "text": X_test.values,
     "source": source_test,
     "actual": y_test,
     "predicted": y_pred
 })
-
-print(results)
 
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print("\nClassification Report:\n")
@@ -81,4 +80,4 @@ errors = results[
 ]
 
 print(f"Total Errors: {len(errors)}")
-print(errors.head(20))
+errors.to_csv("../results/errors.csv", index=False)
