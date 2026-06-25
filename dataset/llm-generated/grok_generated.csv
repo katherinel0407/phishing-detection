@@ -1,0 +1,251 @@
+label,clean_text,source,label_id
+phishing,"Hello, we noticed issue with your password reset. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your refund account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,URGENT your investment problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your suspicious transaction. Please confirm details to resolve.",llm,1
+phishing,URGENT your charity problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your tech support. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your job offer account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your tech support. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your tax notice. Please confirm details to resolve.",llm,1
+phishing,URGENT your order issue problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Hello, we noticed issue with your bank suspension. Please confirm details to resolve.",llm,1
+phishing,URGENT your business proposal problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Hello, we noticed issue with your romance. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your prize win account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your romance account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your account verification account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your suspicious transaction problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your password reset account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your tax notice problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your invoice account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your prize win. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your prize win. Please confirm details to resolve.",llm,1
+phishing,URGENT your order issue problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tax notice account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your job offer. Please confirm details to resolve.",llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your suspicious transaction problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your account verification account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your package delivery. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your security alert account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,URGENT your investment problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your bank suspension account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your government account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your refund. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your refund. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your prize win. Please confirm details to resolve.",llm,1
+phishing,URGENT your invoice problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Hello, we noticed issue with your romance. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your account verification account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tech support account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your bank suspension problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,URGENT your prize win problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your invoice. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your government. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your charity. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your order issue account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your bank suspension. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your invoice. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your investment account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your prize win problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your bank suspension. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your refund problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your suspicious transaction problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your password reset account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your bank suspension account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your security alert account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your order issue. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your business proposal. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your suspicious transaction account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your package delivery account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your romance account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tech support account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your tax notice. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your romance account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your investment. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your prize win problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Hello, we noticed issue with your password reset. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your government account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your package delivery account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your invoice problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your security alert account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your job offer. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your package delivery problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your prize win problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your tech support. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your business proposal. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your investment account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your order issue account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your romance account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your password reset problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your bank suspension problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your tech support problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your romance. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your investment. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your subscription problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your suspicious transaction. Please confirm details to resolve.",llm,1
+phishing,URGENT your job offer problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your order issue account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your refund account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tax notice account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your romance. Please confirm details to resolve.",llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your bank suspension account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your invoice problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,URGENT your refund problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your account verification problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your suspicious transaction account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your package delivery problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your job offer problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your tech support problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your package delivery. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your job offer. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your suspicious transaction account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your refund. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your prize win problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your password reset problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your package delivery account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your job offer problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your investment account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,URGENT your package delivery problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your bank suspension account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your prize win. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your password reset account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your tax notice. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your government. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your refund problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your charity. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your invoice problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your job offer account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your password reset. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,URGENT your business proposal problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your romance. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,URGENT your account verification problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your bank suspension account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your order issue account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your password reset account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your job offer problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Hello, we noticed issue with your tech support. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your romance. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tech support account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your prize win account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your refund account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your investment. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your tech support. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tax notice account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your prize win problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your refund problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your password reset problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your security alert account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your prize win. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your prize win account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tax notice account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve.",llm,1
+phishing,URGENT your tech support problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your password reset. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your investment. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your investment problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Hello, we noticed issue with your order issue. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,URGENT your business proposal problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your security alert. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your package delivery. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your refund. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your tax notice account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your tech support. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your tax notice. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your bank suspension. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your job offer problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,URGENT your investment problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your subscription problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your charity problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your bank suspension problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your investment problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,URGENT your job offer problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your password reset problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your invoice. Please confirm details to resolve. Action required promptly.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your job offer account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your business proposal problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your password reset account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your password reset problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your government problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your government. Please confirm details to resolve.",llm,1
+phishing,"Hello, we noticed issue with your charity. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your suspicious transaction problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,URGENT your subscription problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your charity problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your romance account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your order issue. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your suspicious transaction. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your password reset problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your investment account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your order issue account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your job offer. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your refund account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your business proposal account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Action required promptly.",llm,1
+phishing,"Hello, we noticed issue with your security alert. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your invoice problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Hello, we noticed issue with your romance. Please confirm details to resolve. Thank you.",llm,1
+phishing,URGENT your account verification problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Hello, we noticed issue with your subscription. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your job offer problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your password reset account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your prize win. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your government account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your security alert problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve.",llm,1
+phishing,URGENT your invoice problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your government account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your prize win. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your order issue account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your investment problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,URGENT your account verification problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your investment account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your romance problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your password reset account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,"Hello, we noticed issue with your invoice. Please confirm details to resolve. Thank you.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your government account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards. Thank you.",llm,1
+phishing,URGENT your password reset problem!! Verify info now or lose access dont delay!!! Action required promptly.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your romance account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,"Hello, we noticed issue with your account verification. Please confirm details to resolve.",llm,1
+phishing,URGENT your prize win problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,URGENT your subscription problem!! Verify info now or lose access dont delay!!! Thank you.,llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your romance account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1
+phishing,URGENT your charity problem!! Verify info now or lose access dont delay!!!,llm,1
+phishing,"Hello, we noticed issue with your job offer. Please confirm details to resolve.",llm,1
+phishing,"Dear valued customer, Our team identified a matter regarding your charity account. Please review and verify your information at your convenience to ensure uninterrupted service. Best regards.",llm,1

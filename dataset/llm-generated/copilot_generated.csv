@@ -249,3 +249,252 @@ phishing,Tracking information indicates an exception occurred during transit. We
 phishing,"A package is awaiting scheduling instructions before final delivery can proceed. During a routine review, a reference item (ID 1047) was flagged for follow-up. Please review the information at your earliest convenience.",llm,1
 phishing,Urgent: A package is awaiting scheduling instructions before final delivery can proceed. Immediate attention is requested. Case ID 1048.,llm,1
 phishing,"Tracking information indicates an exception occurred during transit. During a routine review, a reference item (ID 1049) was flagged for follow-up. Please review the information at your earliest convenience.",llm,1
+phishing,We were unable to complete a routine check on your account profile and need you to review your details.,llm,1
+phishing,Your recent login pattern appears unusual and requires confirmation to ensure continued access.,llm,1
+phishing,A system update caused your account preferences to reset. Please verify your information.,llm,1
+phishing,Your account activity report shows inconsistencies that must be reviewed for accuracy.,llm,1
+phishing,We attempted to sync your account settings but encountered missing information.,llm,1
+phishing,Your profile verification window has expired and needs to be renewed.,llm,1
+phishing,A recent attempt to access your account was blocked due to incomplete credentials.,llm,1
+phishing,Your account review is pending because certain fields could not be validated.,llm,1
+phishing,We detected a configuration error in your account and need you to confirm your identity.,llm,1
+phishing,Your account has been temporarily limited until ownership can be verified.,llm,1
+phishing,A login attempt from an unrecognized environment was detected and requires your confirmation.,llm,1
+phishing,Your account information appears outdated and must be updated to maintain functionality.,llm,1
+phishing,We were unable to authenticate your most recent login session.,llm,1
+phishing,Your account has been flagged for a mandatory security review.,llm,1
+phishing,A system alert indicates that your account may not be fully protected.,llm,1
+phishing,Your account is missing essential verification data and needs attention.,llm,1
+phishing,We detected a failed attempt to modify your account settings.,llm,1
+phishing,Your account review is overdue and must be completed to avoid interruption.,llm,1
+phishing,A recent login request could not be validated and requires your confirmation.,llm,1
+phishing,Your account is pending a routine verification check.,llm,1
+phishing,We noticed irregular sign-in behavior and need you to confirm your identity.,llm,1
+phishing,Your account access was paused due to incomplete verification.,llm,1
+phishing,A system scan shows that your account may contain inconsistent information.,llm,1
+phishing,Your account requires updated security details to remain active.,llm,1
+phishing,We detected a login attempt that did not match your usual pattern.,llm,1
+phishing,Your account is awaiting confirmation of recent changes.,llm,1
+phishing,A routine audit found missing data in your account profile.,llm,1
+phishing,Your account verification attempt was unsuccessful and needs to be retried.,llm,1
+phishing,We noticed an unexpected login attempt and need you to review your activity.,llm,1
+phishing,Your account is temporarily restricted until your identity is confirmed.,llm,1
+phishing,A system notice indicates that your account may require additional verification.,llm,1
+phishing,Your account credentials appear to have been altered and must be reviewed.,llm,1
+phishing,We detected a failed authentication attempt on your account.,llm,1
+phishing,Your account review is incomplete and needs your attention.,llm,1
+phishing,A login attempt from a new location was detected and requires verification.,llm,1
+phishing,Your account is missing required security fields and must be updated.,llm,1
+phishing,We were unable to verify your recent activity and need confirmation.,llm,1
+phishing,Your account is pending a security update that requires your review.,llm,1
+phishing,A system check found inconsistencies in your login history.,llm,1
+phishing,Your account may have been accessed using outdated credentials.,llm,1
+phishing,We detected a login attempt that could not be authenticated.,llm,1
+phishing,Your account is awaiting verification of recent profile changes.,llm,1
+phishing,A routine security check requires you to confirm your account details.,llm,1
+phishing,Your account access is limited until your identity can be validated.,llm,1
+phishing,We noticed unusual login timing and need you to verify your activity.,llm,1
+phishing,Your account verification process was interrupted and must be completed.,llm,1
+phishing,A system alert indicates that your account may be at risk.,llm,1
+phishing,Your account requires immediate review due to a failed login attempt.,llm,1
+phishing,We detected an incomplete authentication sequence on your account.,llm,1
+phishing,Your account is pending confirmation of recent security updates.,llm,1
+phishing,Your previous invoice could not be processed due to missing information.,llm,1
+phishing,A billing cycle review shows an unconfirmed invoice requiring your attention.,llm,1
+phishing,Your invoice summary contains fields that could not be validated.,llm,1
+phishing,We attempted to finalize your invoice but encountered incomplete data.,llm,1
+phishing,Your invoice is pending because the submitted details were inconsistent.,llm,1
+phishing,A billing notice indicates that your invoice requires confirmation.,llm,1
+phishing,Your invoice could not be completed due to a formatting error.,llm,1
+phishing,We detected a discrepancy in your invoice submission and need clarification.,llm,1
+phishing,Your invoice review is overdue and must be completed.,llm,1
+phishing,A recent invoice was flagged for missing required fields.,llm,1
+phishing,Your invoice approval could not be processed due to an internal error.,llm,1
+phishing,We noticed an issue with your invoice and need you to review the details.,llm,1
+phishing,Your invoice is pending verification of the submitted information.,llm,1
+phishing,A billing review found inconsistencies in your invoice summary.,llm,1
+phishing,Your invoice could not be validated and requires your confirmation.,llm,1
+phishing,We detected missing data in your invoice and need you to review it.,llm,1
+phishing,Your invoice submission was incomplete and must be corrected.,llm,1
+phishing,A billing alert indicates that your invoice needs immediate attention.,llm,1
+phishing,Your invoice is awaiting confirmation before it can be processed.,llm,1
+phishing,We attempted to review your invoice but encountered an error.,llm,1
+phishing,Your invoice contains unverified information and must be reviewed.,llm,1
+phishing,A billing cycle update requires you to confirm your invoice details.,llm,1
+phishing,Your invoice is pending due to incomplete verification.,llm,1
+phishing,We detected an issue with your invoice approval request.,llm,1
+phishing,Your invoice summary appears inconsistent and needs review.,llm,1
+phishing,A billing notice indicates that your invoice is overdue for confirmation.,llm,1
+phishing,Your invoice could not be processed due to missing fields.,llm,1
+phishing,We found an error in your invoice submission and need clarification.,llm,1
+phishing,Your invoice is awaiting your review before it can be finalized.,llm,1
+phishing,A billing discrepancy was detected in your invoice summary.,llm,1
+phishing,Your invoice approval is pending due to incomplete information.,llm,1
+phishing,We detected an issue with your billing record and need you to review it.,llm,1
+phishing,Your invoice is pending verification of the listed amounts.,llm,1
+phishing,A billing alert indicates that your invoice requires additional review.,llm,1
+phishing,Your invoice submission failed due to missing required data.,llm,1
+phishing,We noticed an inconsistency in your invoice and need confirmation.,llm,1
+phishing,Your invoice is awaiting approval and cannot be processed yet.,llm,1
+phishing,A billing review found missing information in your invoice.,llm,1
+phishing,Your invoice could not be validated and must be reviewed.,llm,1
+phishing,We detected an error in your invoice details and need your confirmation.,llm,1
+phishing,Your invoice is pending due to incomplete submission.,llm,1
+phishing,A billing cycle review requires you to verify your invoice.,llm,1
+phishing,Your invoice summary contains unverified fields and needs attention.,llm,1
+phishing,We attempted to process your invoice but encountered an issue.,llm,1
+phishing,Your invoice is awaiting verification of the submitted details.,llm,1
+phishing,A billing alert indicates that your invoice is incomplete.,llm,1
+phishing,Your invoice approval is pending due to missing information.,llm,1
+phishing,We detected a formatting issue in your invoice submission.,llm,1
+phishing,Your invoice is pending review and must be confirmed.,llm,1
+phishing,A billing notice indicates that your invoice requires immediate verification.,llm,1
+phishing,Your invoice could not be completed due to inconsistent data.,llm,1
+phishing,A document has been shared with you but cannot be accessed until your identity is confirmed.,llm,1
+phishing,Your file access request was incomplete and must be retried.,llm,1
+phishing,A shared document is waiting for you but requires verification.,llm,1
+phishing,We attempted to grant access to a file but encountered missing information.,llm,1
+phishing,Your document access is pending due to incomplete authentication.,llm,1
+phishing,A shared file could not be opened because your identity could not be verified.,llm,1
+phishing,Your document request failed due to inconsistent access credentials.,llm,1
+phishing,A file is awaiting your confirmation before it can be viewed.,llm,1
+phishing,Your document access attempt was blocked due to missing details.,llm,1
+phishing,A shared folder requires identity verification before access can be granted.,llm,1
+phishing,Your file access expired and must be renewed.,llm,1
+phishing,A document is pending your review but requires confirmation.,llm,1
+phishing,Your access request for a shared file could not be validated.,llm,1
+phishing,A file was sent to you but cannot be opened until verification is complete.,llm,1
+phishing,Your document access is restricted due to incomplete information.,llm,1
+phishing,A shared document requires your identity confirmation.,llm,1
+phishing,Your file access attempt was unsuccessful and must be retried.,llm,1
+phishing,A document is waiting for you but cannot be opened without verification.,llm,1
+phishing,Your shared file request is pending due to missing data.,llm,1
+phishing,A file is awaiting your identity confirmation before access can be granted.,llm,1
+phishing,Your document access was paused due to incomplete verification.,llm,1
+phishing,A shared folder is pending your approval.,llm,1
+phishing,Your file access request failed due to inconsistent information.,llm,1
+phishing,A document requires your confirmation before it can be viewed.,llm,1
+phishing,Your access attempt was blocked due to missing authentication details.,llm,1
+phishing,A shared file is waiting for your review.,llm,1
+phishing,Your document access is pending due to incomplete credentials.,llm,1
+phishing,A file cannot be opened until your identity is verified.,llm,1
+phishing,Your shared document request is awaiting confirmation.,llm,1
+phishing,A document is pending review and requires your identity validation.,llm,1
+phishing,Your file access attempt was interrupted and must be completed.,llm,1
+phishing,A shared folder requires updated verification details.,llm,1
+phishing,Your document access is restricted until your identity is confirmed.,llm,1
+phishing,A file is awaiting your confirmation before it can be accessed.,llm,1
+phishing,Your document request is pending due to missing verification.,llm,1
+phishing,A shared document cannot be opened until required information is provided.,llm,1
+phishing,Your file access is incomplete and needs verification.,llm,1
+phishing,A document is waiting for your approval.,llm,1
+phishing,Your shared file request requires identity confirmation.,llm,1
+phishing,A file is pending review and cannot be opened yet.,llm,1
+phishing,Your document access attempt failed due to missing fields.,llm,1
+phishing,A shared folder is awaiting your confirmation.,llm,1
+phishing,Your file access request is incomplete and must be updated.,llm,1
+phishing,A document requires verification before it can be accessed.,llm,1
+phishing,Your shared file request is pending due to incomplete data.,llm,1
+phishing,A file is awaiting your identity validation.,llm,1
+phishing,Your document access is pending and must be confirmed.,llm,1
+phishing,A shared document requires your immediate review.,llm,1
+phishing,Your file access attempt was unsuccessful due to missing information.,llm,1
+phishing,Your HR profile contains missing fields that must be updated.,llm,1
+phishing,We were unable to validate your employment information and need your confirmation.,llm,1
+phishing,Your benefits review requires updated details.,llm,1
+phishing,HR detected inconsistencies in your profile and needs clarification.,llm,1
+phishing,Your timesheet submission could not be processed due to missing information.,llm,1
+phishing,Your HR account requires verification following a system update.,llm,1
+phishing,We detected missing data in your employee record.,llm,1
+phishing,Your HR profile requires immediate review due to incomplete fields.,llm,1
+phishing,HR flagged your account for missing required information.,llm,1
+phishing,Your payroll details could not be validated and need review.,llm,1
+phishing,Your HR access is restricted until your identity is confirmed.,llm,1
+phishing,We noticed inconsistencies in your employment record.,llm,1
+phishing,Your benefits enrollment is pending due to incomplete information.,llm,1
+phishing,HR requires updated details from you to complete your profile.,llm,1
+phishing,Your employee status could not be confirmed and needs verification.,llm,1
+phishing,Your HR profile is outdated and must be updated.,llm,1
+phishing,We detected an issue with your HR submission.,llm,1
+phishing,Your timesheet requires verification before it can be approved.,llm,1
+phishing,HR flagged your recent activity for review.,llm,1
+phishing,Your employee file is incomplete and needs attention.,llm,1
+phishing,Your HR access attempt failed due to missing information.,llm,1
+phishing,Your benefits review is pending and requires confirmation.,llm,1
+phishing,We found missing fields in your HR profile.,llm,1
+phishing,Your employee record requires immediate verification.,llm,1
+phishing,HR cannot process your request until your details are confirmed.,llm,1
+phishing,Your payroll information is pending review.,llm,1
+phishing,We detected an error in your HR file.,llm,1
+phishing,Your employee profile requires verification.,llm,1
+phishing,HR needs confirmation of your recent submission.,llm,1
+phishing,Your HR account is pending review.,llm,1
+phishing,Your benefits enrollment failed due to missing information.,llm,1
+phishing,We noticed incomplete data in your HR record.,llm,1
+phishing,Your employee status is pending verification.,llm,1
+phishing,HR requires updated information from you.,llm,1
+phishing,Your timesheet submission is incomplete.,llm,1
+phishing,Your HR profile needs immediate attention.,llm,1
+phishing,We detected inconsistencies in your employee file.,llm,1
+phishing,Your HR access is pending confirmation.,llm,1
+phishing,Your employee record is outdated and must be updated.,llm,1
+phishing,HR flagged your account for review.,llm,1
+phishing,Your benefits information requires verification.,llm,1
+phishing,We found missing fields in your HR submission.,llm,1
+phishing,Your employee profile is pending approval.,llm,1
+phishing,HR requires confirmation of your identity.,llm,1
+phishing,Your payroll record needs verification.,llm,1
+phishing,We detected an issue with your HR access.,llm,1
+phishing,Your HR account is incomplete and needs review.,llm,1
+phishing,Your employee file requires immediate attention.,llm,1
+phishing,HR cannot validate your information without confirmation.,llm,1
+phishing,Your package is being held due to missing delivery information.,llm,1
+phishing,A shipment addressed to you requires confirmation before it can be released.,llm,1
+phishing,Your delivery could not be completed due to an address issue.,llm,1
+phishing,A package is waiting for you but requires identity confirmation.,llm,1
+phishing,Your parcel is delayed due to missing required details.,llm,1
+phishing,A delivery attempt failed because your contact information could not be verified.,llm,1
+phishing,Your shipment is pending verification of your delivery details.,llm,1
+phishing,A package assigned to you cannot be processed until your information is confirmed.,llm,1
+phishing,Your delivery is on hold due to an address mismatch.,llm,1
+phishing,A parcel is awaiting your confirmation before it can be dispatched.,llm,1
+phishing,Your shipment encountered an error and needs review.,llm,1
+phishing,A package is pending release and requires updated information.,llm,1
+phishing,Your delivery information appears incomplete.,llm,1
+phishing,A shipment is waiting for your confirmation.,llm,1
+phishing,Your parcel cannot be processed until missing information is provided.,llm,1
+phishing,A delivery notice indicates incomplete data.,llm,1
+phishing,Your package is delayed pending verification.,llm,1
+phishing,A shipment requires your confirmation before continuing transit.,llm,1
+phishing,Your delivery request failed due to missing information.,llm,1
+phishing,A parcel is on hold until your identity is confirmed.,llm,1
+phishing,Your shipment is awaiting updated delivery details.,llm,1
+phishing,A package addressed to you needs confirmation.,llm,1
+phishing,Your delivery attempt was unsuccessful due to incomplete information.,llm,1
+phishing,A shipment is pending your review.,llm,1
+phishing,Your parcel is waiting for verification before routing.,llm,1
+phishing,A delivery record mismatch occurred.,llm,1
+phishing,Your shipment cannot proceed until your details are confirmed.,llm,1
+phishing,A package is awaiting verification of your contact information.,llm,1
+phishing,Your delivery request is incomplete.,llm,1
+phishing,A parcel is pending confirmation due to missing address information.,llm,1
+phishing,Your shipment requires immediate verification.,llm,1
+phishing,A delivery hold was placed due to inconsistent information.,llm,1
+phishing,Your package cannot be released until your details are validated.,llm,1
+phishing,A shipment is delayed pending identity confirmation.,llm,1
+phishing,Your parcel is awaiting updated delivery information.,llm,1
+phishing,A delivery attempt was paused due to missing data.,llm,1
+phishing,Your shipment is on hold until your information is verified.,llm,1
+phishing,A package is pending your confirmation to continue processing.,llm,1
+phishing,Your delivery information needs review.,llm,1
+phishing,A shipment is awaiting your identity confirmation.,llm,1
+phishing,Your parcel cannot be routed until required information is provided.,llm,1
+phishing,A delivery notice indicates missing details.,llm,1
+phishing,Your shipment is pending due to an address issue.,llm,1
+phishing,A package is waiting for confirmation of your delivery details.,llm,1
+phishing,Your parcel is delayed until your identity is verified.,llm,1
+phishing,A shipment requires updated information before release.,llm,1
+phishing,Your delivery request is pending confirmation.,llm,1
+phishing,A package is awaiting your review due to incomplete information.,llm,1
+phishing,Your shipment cannot be completed until your details are confirmed.,llm,1
+phishing,A parcel is on hold pending verification of your contact information.,llm,1
