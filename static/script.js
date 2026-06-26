@@ -33,22 +33,21 @@ async function analyzeEmail() {
     `;
 
     // Add each important feature
-    if (data.prediction) {
+    if (data.prediction === 1) {
         html += `
             <h3>Why was this flagged?</h3>
 
             <ul>
         `;
-        data.top_features.forEach(feature => {
+        (data.top_features || []).forEach(feature => {
             html += `<li>${feature}</li>`;
         });
-
         html += `
             </ul>
 
             <h3>Suspicious Keywords</h3>
 
-            <p>${data.suspicious_words.join(", ")}</p>
+            <p>${(data.suspicious_words || []).join(", ")}</p>
         `;
     }
 

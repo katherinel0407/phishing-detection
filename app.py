@@ -51,6 +51,9 @@ def predict():
         "bank": "References financial institutions",
         "payment": "Requests or references payments",
         "suspend": "Threatens account suspension",
+        "redacted": "Mentions sensitive or hidden information",
+        "delivery": "Refers to package or shipment updates, commonly used in fake delivery notification scams",
+        "document": "Impersonates shared files or invoices, often used to trick users into opening malicious attachments",
         "restricted": "Uses fear of losing access"
     }
 
@@ -59,7 +62,7 @@ def predict():
 
     for idx in indices:
         weight = coefficients[idx]
-        if weight > 0:
+        if abs(weight) > 0:
             important.append(
                 (
                     feature_names[idx],
@@ -82,7 +85,8 @@ def predict():
     return jsonify({
         "prediction": prediction,
         "confidence": round(confidence, 3),
-        "top_features":top_features
+        "top_features": top_features,
+        "suspicious_words": [word for word, _ in important[:5]]
     })
 
 if __name__ == "__main__":

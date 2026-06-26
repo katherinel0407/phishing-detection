@@ -295,6 +295,10 @@ in your browser
 
 Input your email text of choice (i.e. body of email), and click 'Analyze Email'!
 
+### Example
+
+![App example](images/web_example.png)
+
 ---
 
 ## Technologies
