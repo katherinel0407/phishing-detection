@@ -214,7 +214,7 @@ A TF-IDF vectorization pipeline was used to convert email text into numerical fe
 
 Classification Report:
 
-![Classification Report](classification_report.png)
+![Classification Report](images/classification_report.png)
 
 The classifier achieved near-perfect performance in distinguishing human-generated phishing emails from AI-generated phishing emails.
 
@@ -261,9 +261,39 @@ The following features were most strongly associated with AI-generated phishing 
 
 ---
 
-## Dashboard
+## Phishing Email Detection Web App
 
-let's also build a dashboard where user can input email text --> predict if is phishing and give reasons why.
+I've created a basic web application to extend on this ML model that classifies emails as legitimate or phishing, and provides explanations of suspicious features only when phishing is detected.
+
+### How It Works
+
+1. User inputs an email into the web interface
+2. Frontend sends the text to the backend via a POST /predict request
+3. Backend processes the text using a trained ML/NLP model
+4. Model returns:
+- Prediction (phishing or legitimate)
+- Probability score
+- What is suspicious (only if phishing is detected)
+5. Frontend dynamically renders:
+- Prediction result
+- Explanation panel
+
+### How To Run
+
+After cloning repo and installing libraries from requirements.txt, simply:
+
+Run 
+```bash
+python app.py
+```
+
+Then open
+```text
+http://127.0.0.1:5000
+```
+in your browser
+
+Input your email text of choice (i.e. body of email), and click 'Analyze Email'!
 
 ---
 
@@ -278,6 +308,10 @@ let's also build a dashboard where user can input email text --> predict if is p
 - Support Vector Machines (SVM)
 - Matplotlib
 - Jupyter Notebook
+- HTML
+- CSS
+- JavaScript
+- Flask
 
 ---
 

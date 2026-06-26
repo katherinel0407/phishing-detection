@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AI Phishing Detector</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<h1>AI Phishing Detector</h1>
+
+<textarea id="email"></textarea>
+
+<button onclick="analyzeEmail()">
+    Analyze Email
+</button>
+
+<div id="results"></div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
